@@ -6,31 +6,32 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      title: TP Sports Science Testing & Services
+      subtitle: Bringing to you sports science testing, performance monitoring and
+        services to enhance your sporting performance right here in TP.
+      background: /images/homepage-images/icebath.jpg
+      button: Contact Us
+      url: senghui@tp.edu.sg
+      key_highlights:
+        - title: Meet the Team
+          description: Find out more about the men and women behind the scene
+          url: https://google.com
+        - title: Projects
+          description: "Learn about upcoming projects and completed ones. "
+          url: https://gmail.com
+        - title: Testing and Services
+          description: Read about the testings and services we do to support athletes'
+            sporting performance.
+          url: /privacy/
+  - infobar:
+      title: Infobar title
+      subtitle: Subtitle
+      description: About a sentence worth of description here
+      button: Button text
+      url: /faq/
+  - resources:
+      title: Media
+      subtitle: Learn more
+      button: View More
 ---
-
