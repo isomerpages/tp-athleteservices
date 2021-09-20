@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - ray/.keep
-      - meet-the-team.md
