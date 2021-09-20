@@ -1,4 +1,5 @@
 collections:
   meet-the-team:
     output: true
-    order: []
+    order:
+      - meet-the-team.md
