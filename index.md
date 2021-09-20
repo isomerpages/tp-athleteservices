@@ -15,14 +15,15 @@ sections:
       url: senghui@tp.edu.sg
       key_highlights:
         - title: Meet the Team
-          description: Find out more about the men and women behind the scene
+          description: Find out more about the men and women behind the scene.
           url: https://google.com
         - title: Projects
-          description: "Learn about upcoming projects and completed ones. "
+          description: "Join us to discover what may affect your sports performance.  Read
+            about some of  our upcoming and completed ones. "
           url: https://gmail.com
         - title: Testing and Services
-          description: Read about the testings and services we do to support athletes'
-            sporting performance.
+          description: Learn about the range of testings and services we do to support
+            athletes' sporting performance.
           url: /privacy/
   - infobar:
       title: Infobar title
