@@ -2,11 +2,11 @@ logo: /images/tplogo.svg
 links:
   - title: Meet The Team
     collection: meet-the-team
-  - title: PROJECTS
+  - title: Projects
+    collection: projects
+  - title: PROJECTS -isomer template
     url: /example-page/
   - title: SERVICES
     collection: example-collection
   - title: Resources
     resource_room: true
-  - title: Projects
-    collection: projects
