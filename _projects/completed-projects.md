@@ -1,7 +1,8 @@
 ---
 title: Completed Projects
-permalink: /projects/permalink
+permalink: /projects/completed/permalink
 ---
+
 Here are the abstract of projects that some athletes and students have embarked with us.  Have a read at what they did! 
 
 1. Effects of 2-hr Cyclical Hypobaric Exposure at 1000m on Sea-Level Performance.  [Example Filename](/files/projects-synopsis/completed-projects/Abstract%20Effects%20of%202-hr%20Cyclic%20Hypobaric%20Exposure%20on%20Sea%20Level%20Perf.pdf)
