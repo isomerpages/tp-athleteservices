@@ -1,7 +1,7 @@
 logo: /images/tplogo.svg
 links:
   - title: MEET THE TEAM
-    url: https://abc.com.sg/meettheteam
+    url: /meettheteam
   - title: PROJECTS
     url: /example-page/
   - title: SERVICES
