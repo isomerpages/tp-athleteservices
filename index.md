@@ -24,7 +24,7 @@ sections:
         - title: Testing and Services
           description: Learn about the range of testings and services we do to support
             athletes' sporting performance.
-          url: /privacy/
+          url: https://abc.com.sg/testing-and-services/permalink
   - infobar:
       title: Infobar title
       subtitle: Subtitle
