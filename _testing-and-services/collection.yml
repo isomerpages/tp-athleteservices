@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - testing-and-services.md
+      - body-composition.md
