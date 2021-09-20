@@ -1,12 +1,10 @@
 logo: /images/tplogo.svg
 links:
-  - title: MEET THE TEAM
-    url: meettheteam/
+  - title: Meet The Team
+    collection: meet-the-team
   - title: PROJECTS
     url: /example-page/
   - title: SERVICES
     collection: example-collection
   - title: Resources
     resource_room: true
-  - title: Meet The Team
-    collection: meet-the-team
