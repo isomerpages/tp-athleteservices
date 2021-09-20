@@ -1,4 +1,4 @@
 collections:
-  services:
+  testing-and-services:
     output: true
     order: []
