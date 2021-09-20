@@ -1,4 +1,5 @@
 collections:
   testing-and-services:
     output: true
-    order: []
+    order:
+      - testing-and-services.md
