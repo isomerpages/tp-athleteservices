@@ -1,5 +1,4 @@
 collections:
   meet-the-team:
     output: true
-    order:
-      - ms-pang/.keep
+    order: []
