@@ -4,6 +4,6 @@ collections:
     order:
       - esther/.keep
       - wen-kiat/.keep
-      - ray/.keep
-      - ray/ray-loh.md
+      - ray-loh/.keep
+      - ray-loh/ray-loh.md
       - ms-pang/.keep
