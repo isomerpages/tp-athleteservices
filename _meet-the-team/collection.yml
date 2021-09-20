@@ -2,4 +2,4 @@ collections:
   meet-the-team:
     output: true
     order:
-      - meet-the-team.md
+      - who-we-are.md
