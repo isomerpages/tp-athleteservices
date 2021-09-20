@@ -1,17 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/tplogo.svg
-
 links:
-  - title: Contact Us
+  - title: MEET THE TEAM
     url: /contact-us/
-  - title: Example Page
+  - title: PROJECTS
     url: /example-page/
-  - title: Example Collection
+  - title: SERVICES
     collection: example-collection
   - title: Resources
     resource_room: true
