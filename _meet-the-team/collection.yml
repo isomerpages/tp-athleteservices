@@ -2,5 +2,6 @@ collections:
   meet-the-team:
     output: true
     order:
+      - ms-pang/.keep
       - ray/.keep
       - ray/meet-the-team.md
