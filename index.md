@@ -12,7 +12,7 @@ sections:
         services to enhance your sporting performance right here in TP.
       background: /images/homepage-images/icebath.jpg
       button: Contact Us
-      url: senghui@tp.edu.sg
+      url: https://form.gov.sg/614822619165430013c9186d
       key_highlights:
         - title: Meet the Team
           description: Find out more about the men and women behind the scene.
