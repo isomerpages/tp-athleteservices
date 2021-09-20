@@ -2,7 +2,6 @@ collections:
   meet-the-team:
     output: true
     order:
-      - esther/.keep
       - wen-kiat/.keep
       - ray-loh/.keep
       - ray-loh/ray-loh.md
