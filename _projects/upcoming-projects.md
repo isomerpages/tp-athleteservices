@@ -2,7 +2,7 @@
 title: Upcoming Projects
 permalink: /projects/upcoming/permalink
 ---
-[Example Filename](/files/projects-synopsis/upcoming-projects/GL%20Improving%20martial%20arts%20performance%20using%20video%20analysis.pdf)Have you often wondered how changing some aspects of what you are doing may affect your sports performance? There could just be a project that you may like to embark on to discover more for yourself what affects your performance and what you can do about it. 
+Have you often wondered how changing some aspects of what you are doing may affect your sports performance? There could just be a project that you may like to embark on to discover more for yourself what affects your performance and what you can do about it. 
 
 
 
