@@ -8,4 +8,4 @@ Sports teams may arrange for performance testing suitable for your team through 
 
 Services such as taping, icebath, sports massage and physiotheraphy sessions are also arranged seasonally to meet the athletes' needs. 
 
-Find out what each of the testing is used for and what services your team may need. 
+Find out what each of the testing is used for and what services your team may need.
