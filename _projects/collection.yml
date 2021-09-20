@@ -1,4 +1,5 @@
 collections:
   projects:
     output: true
-    order: []
+    order:
+      - upcoming-projects.md
