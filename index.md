@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: Meet the Team
           description: Find out more about the men and women behind the scene.
-          url: https://abc.com.sg/meettheteam
+          url: www.abc.com.sg/meettheteam
         - title: Projects
           description: "Join us to discover what may affect your sports performance.  Read
             about some of  our upcoming and completed ones. "
