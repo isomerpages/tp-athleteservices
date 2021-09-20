@@ -2,13 +2,13 @@
 title: Upcoming Projects
 permalink: /projects/upcoming/permalink
 ---
-Have you often wondered how changing some aspects of what you are doing may affect your sports performance? There could just be a project that you may like to embark on to discover more for yourself what affects your performance and what you can do about it. 
+[Example Filename](/files/projects-synopsis/upcoming-projects/GL%20Improving%20martial%20arts%20performance%20using%20video%20analysis.pdf)Have you often wondered how changing some aspects of what you are doing may affect your sports performance? There could just be a project that you may like to embark on to discover more for yourself what affects your performance and what you can do about it. 
 
 
 
 | ![Alt text for image on Isomer site](/images/projects-images/JC%20Sqauts.png) | ![Alt text for image on Isomer site](/images/projects-images/EC%20Video%20Anaysis.png) | ![Alt text for image on Isomer site](/images/projects-images/SH%20Sleep.png) |
 | -------- | -------- | -------- |
-| Isometric training for explosive perfomance?[Example Filename](/files/projects-synopsis/upcoming-projects/GL%20Isometrics%20Squats%20and%20Vertical%20Jump%20Performance.pdf)  | Explore how you can use video analysis to enhance sports performance!  | Sleeping more hours for better Heart Rate Variabilty? [Example Filename](/files/projects-synopsis/upcoming-projects/GL%20HRV%20and%20Sleep.pdf)  |
+| Isometric training for explosive perfomance?[Example Filename](/files/projects-synopsis/upcoming-projects/GL%20Isometrics%20Squats%20and%20Vertical%20Jump%20Performance.pdf)  | Explore how you can use video analysis to enhance sports performance! [Example Filename](/files/projects-synopsis/upcoming-projects/GL%20Video%20Analysis%20for%20sports%20performance.pdf)[Example Filename](/files/projects-synopsis/upcoming-projects/GL%20Improving%20martial%20arts%20performance%20using%20video%20analysis.pdf) | Sleeping more hours for better Heart Rate Variabilty? [Example Filename](/files/projects-synopsis/upcoming-projects/GL%20HRV%20and%20Sleep.pdf)  |
 
 
 
