@@ -19,11 +19,3 @@ Hello! We are passionate about student development and sports and strive to empo
 | ![Alt text for image on Isomer site](/images/staff-team-images/Thian%20Seng.png)| ![Alt text for image on Isomer site](/images/staff-team-images/Yeuan%20Huei.png) | ![Alt text for image on Isomer site](/images/staff-team-images/Sheena.png)|
 | -------- | -------- | -------- |
 | Hands-on and well trained in taping and massage therapy, Thian Seng is generous in sharing his skills and knowledge to help athletes train and compete more safely.  He assist with recovery services for the teams.       | With an eye for talent identification and fueled with strong passion in high performance sport, Yeuan Huei’s the Go-to man for talent scouting and setting up systems for high performance sports team.      | Our ever reliable admin PRO who looks into the team’s need to ensure resources needed for the team’s success are available for the athletes. There’s nowhere the team goes without her.      |
-
-
-
-
-
-
-
-
