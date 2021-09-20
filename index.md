@@ -20,7 +20,7 @@ sections:
         - title: Projects
           description: "Join us to discover what may affect your sports performance.  Read
             about some of  our upcoming and completed ones. "
-          url: https://abc.com.sg/projects/upcoming/permalink
+          url: /projects/upcoming/permalink
         - title: Testing and Services
           description: Learn about the range of testings and services we do to support
             athletes' sporting performance.
