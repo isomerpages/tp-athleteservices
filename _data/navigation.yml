@@ -10,5 +10,5 @@ links:
     collection: example-collection
   - title: Resources
     resource_room: true
-  - title: Services
-    collection: services
+  - title: Testing And Services
+    collection: testing-and-services
