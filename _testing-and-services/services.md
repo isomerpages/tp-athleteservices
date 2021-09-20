@@ -12,6 +12,6 @@ We offer the following services that some sports teams have found beneficial:
 
 | ![Alt text for image on Isomer site](/images/homepage-images/taping.jpg) | ![Alt text for image on Isomer site](/images/homepage-images/icebath.jpg) | ![Alt text for image on Isomer site](/images/homepage-images/icebath.jpg)  |
 | -------- | -------- | -------- |
-| Taping Workshop     | S&C Training    | Ice-Bath     |
+| Taping Workshop     | S&C Training. pict need to change    | Ice-Bath     |
 
 
