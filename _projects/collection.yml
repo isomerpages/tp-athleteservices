@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - completed-projects/.keep
+      - completed-projects/completed-projects.md
       - upcoming-projects.md
