@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Sports Science Testing & Services
+      title: Sport Science Testing & Services
       subtitle: Bringing to you sports science testing, performance monitoring and
         services to enhance your sporting performance right here in TP.
       background: /images/homepage-images/icebath.jpg
