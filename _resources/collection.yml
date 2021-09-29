@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - sdaa-curated.md
+      - from-science-for-sport.md
