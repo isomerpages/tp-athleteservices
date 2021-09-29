@@ -6,9 +6,5 @@ links:
     collection: projects
   - title: Testing And Services
     collection: testing-and-services
-  - title: PROJECTS -isomer template
-    url: /example-page/
-  - title: SERVICES
-    collection: example-collection
   - title: Resources
     resource_room: true
