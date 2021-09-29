@@ -22,7 +22,10 @@ sections:
             about some of  our upcoming and completed ones. "
           url: /projects/upcoming/permalink
         - title: Testing and Services
-          description: Learn about the range of testings and services we do to support
+          description: Explore the range of testing and services we do to support
             athletes' sporting performance.
           url: /testing-and-services/permalink
+        - title: Resources
+          description: Learn more about various topics of Sport Science here
+          url: ""
 ---
