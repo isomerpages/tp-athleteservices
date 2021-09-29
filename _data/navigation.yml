@@ -7,6 +7,4 @@ links:
   - title: Testing And Services
     collection: testing-and-services
   - title: Resources
-    resource_room: true
-  - title: Resources
     collection: resources
