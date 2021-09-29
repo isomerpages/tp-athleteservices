@@ -19,7 +19,7 @@ sections:
           url: /meet-the-team/permalink
         - title: Projects
           description: "Join us to discover what may affect your sports performance.  Read
-            about some of  our upcoming and completed ones. "
+            about some of  our upcoming and completed projects we have done. "
           url: /projects/upcoming/permalink
         - title: Testing and Services
           description: Explore the range of testing and services we do to support
