@@ -9,4 +9,3 @@ If you had missed taking notes from the workshops we had conducted, fear not! Do
 3. Nutrition[Example Filename](/files/workshops-by-tp/Sports%20Leaders%20Workshop%202021_Nutrition.pdf)
 4. Periodisation[Example Filename](/files/workshops-by-tp/Sports%20Leaders%20Workhop_Periodisation.pdf)
 5. Strength & Conditioning[Example Filename](/files/workshops-by-tp/Sports%20Leaders%20Workshop%202021_SnC.pdf)
-
