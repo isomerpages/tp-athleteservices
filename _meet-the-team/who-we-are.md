@@ -5,7 +5,7 @@ permalink: /meet-the-team/permalink
 Hello! We are passionate about student development and sports and strive to empower you to be a better version of yourself through sporting excellence! Find out who we are and our area of interest/ specialization.
 
 
-| ![Alt text for image on Isomer site](/images/staff-team-images/Ray2.png) | ![Alt text for image on Isomer site](/images/staff-team-images/Seng%20Hui2.png) |![Alt text for image on Isomer site](/images/staff-team-images/Wen%20Kiat2.png) | 
+| ![Alt text for image on Isomer site](/images/staff-team-images/Ray3.png) |![Alt text for image on Isomer site](/images/staff-team-images/Seng%20Hui3.png)  |![Alt text for image on Isomer site](/images/staff-team-images/Wen%20Kiat3.png) | 
 | -------- | -------- | -------- |
 | With sharp eyes and a critical mind, Ray’s interest is in Research Design and Measurement. He’s the Go-to man in the team with regards to forming good research questions and developing a sound methodology for research studies.  He leads the team in research.     | With a passion in student development, Ms Pang’s focus is in the area of Mental Health. She’s versatile in helping students to improve their well-being as well as equipping athletes to achieve higher performance.  She oversees the implementation of projects and services.     | Being a seasoned competitive long distance runner, Wen Kiat’s interest is in Exercise Physiology. He is a firm believer of incorporating strength and conditioning programme and recovery exercises into training to extend the lifespan of an athlete. He helps to coordinate the implementation of testing and services.      |
 
