@@ -1,5 +1,5 @@
 collections:
-  our-resources:
+  resources:
     output: true
     order:
       - sdaa-curated.md
