@@ -15,5 +15,5 @@ If you had missed taking notes from the workshops we had conducted, fear not! Do
 
 | Strength & Conditioning | Mental Skills Training | Column 3 |
 | -------- | -------- | -------- |
-| [Example Filename](/files/workshops-by-tp/Sports%20Leaders%20Workshop%202021_SnC.pdf)     | Text     | Text     |
+| [Example Filename](/files/workshops-by-tp/Sports%20Leaders%20Workshop%202021_SnC.pdf) | [Example Filename](/files/workshops-by-tp/Sports%20Leaders%20Workshop_Mental%20Skills.pdf)|  |
 
