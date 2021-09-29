@@ -27,5 +27,5 @@ sections:
           url: /testing-and-services/permalink
         - title: Resources
           description: Learn more about various topics of Sport Science here
-          url: ""
+          url: /resources/permalink
 ---
