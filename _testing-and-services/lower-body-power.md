@@ -8,4 +8,3 @@ Vertical jump height has been shown to correlate with maximal strength and sprin
 
 The test is a suitable assessment tool for athletes whose sports requires power translated from vertical jump or for the athlete to jump high.  
 
-![Vertical Jump Test](/images/service-images/Vertical%20Jump.jpg)
