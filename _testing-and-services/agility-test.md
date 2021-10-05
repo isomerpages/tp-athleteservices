@@ -7,4 +7,4 @@ The Illionois Agliity test is used to assess agility by measuring the fastest po
 This test is a suitable assessment tool for athletes that compete in sports requiring frequent change of direction at high speed. 
 
 
-![Alt text for image on Isomer site](/images/service-images/illinois%20agility.gif)
+![Illionois Agility Test](/images/service-images/illinois%20agility.gif)
