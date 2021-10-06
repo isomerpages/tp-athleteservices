@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Sport Science Testing & Services
+      title: Athlete Performance Testing & Services
       subtitle: Bringing to you sports science testing, performance monitoring and
         athlete services to enhance your sporting performance right here in TP.
       background: /images/homepage-images/K4_male.jpg
