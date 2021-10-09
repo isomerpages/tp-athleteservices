@@ -352,3 +352,9 @@ table th:nth-of-type(4) {
 /* img[src~="bordered"] {
    border: 1px solid grey;
 }*/
+
+body .tablelines table,
+body .tablelines td,
+body .tablelines th {
+    border: 1px solid slategrey; padding:10px;
+}
