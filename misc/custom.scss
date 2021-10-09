@@ -336,13 +336,13 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
-.3-col table th:first-of-type {
+div.3-col + table th:first-of-type {
     width: 33%;
 }
-.3-col table th:nth-of-type(2) {
+div.3-col + table th:nth-of-type(2) {
     width: 33%;
 }
-.3-col table th:nth-of-type(3) {
+div.3-col + table th:nth-of-type(3) {
     width: 33%;
 }
 .4-col table th:first-of-type {
