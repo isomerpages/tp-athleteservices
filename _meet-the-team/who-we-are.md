@@ -11,7 +11,7 @@ Hello! We are passionate about student development and sports and strive to empo
 
 
 
-|![Esther Chok](/images/staff-team-images/Esther3.png)| ![Jonathan Chua](/images/staff-team-images/Jon.png) |![Muhd Haffiz](/images/staff-team-images/Haffiz3.png)  | ![Darren Tan](/images/staff-team-images/Darren3.png)
+|![Esther Chok](/images/staff-team-images/Esther2.png)| ![Jonathan Chua](/images/staff-team-images/Jon.png) |![Muhd Haffiz](/images/staff-team-images/Haffiz3.png)  | ![Darren Tan](/images/staff-team-images/Darren3.png)
 | -------- | -------- | -------- |  -------- |
 | Being detailed-minded, Esther is keen to help athletes and teams to analyse their performance.  She is also interested to help athletes reach new heights through proper nutrition.      | A powerlifter who has big dreams for every athlete, Jon’s passion is in empowering athletes through Strength & Conditioning.  He’s the Go-to man in the team for S&C programming.      | Being IT savvy, Haffiz is constantly up to date with the latest fitness and exercise trend. He is part of the team that implement Strength & Conditioning programme and recovery exercises with the sports teams.      | Having a knack for numbers and facts, Darren is well read in Psychology.  He is enthusiastic in high performance sports and keen to help athletes apply mental skills training to up their game and to peak at the right time.      |
 
