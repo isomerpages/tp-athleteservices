@@ -1,8 +1,7 @@
 ---
 layout: homepage
 title: TP Sports Science
-description: Bringing to you sports science testing, performance monitoring and
-  athlete services to enhance your sporting performance right here in TP.
+description: Bringing to you sports science testing, performance monitoring and athlete services to enhance your sporting performance right here in TP.
 image: /images/tp-logo.svg
 permalink: /
 notification: ""
