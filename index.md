@@ -1,8 +1,9 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: TP Sports Science
+description: Bringing to you sports science testing, performance monitoring and
+  athlete services to enhance your sporting performance right here in TP.
+image: /images/tp-logo.svg
 permalink: /
 notification: ""
 sections:
