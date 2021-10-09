@@ -1,8 +1,8 @@
 ---
 title: Upcoming Projects
-permalink: /projects/upcoming/permalink
+permalink: /projects/upcoming/
 ---
-Have you often wondered how changing some aspects of what you are doing may affect your sports performance? There could just be a project that you may like to embark on to discover more for yourself what affects your performance and what you can do about it. 
+Have you often wondered how changing some aspects of what you are doing may affect your sports performance? There could just be a project that you may like to embark on to discover more for yourself what affects your performance and what you can do about it.
 
 
 

@@ -1,8 +1,8 @@
 ---
 title: Body Composition
-permalink: /testing-and-services/bodycomp/permalink
+permalink: /testing-and-services/bodycomp/
 ---
-This test is done using a Bioelectrical Impedance Analysis (BIA) machine that runs small electrical currents through the body. Various bodily tissues (e.g. muscle, fat, bone, etc.) have different electrical conductivity due to variation in water content hence the small electrical current passes through the tissues at different speeds. 
+This test is done using a Bioelectrical Impedance Analysis (BIA) machine that runs small electrical currents through the body. Various bodily tissues (e.g. muscle, fat, bone, etc.) have different electrical conductivity due to variation in water content hence the small electrical current passes through the tissues at different speeds.
 
 It is important to note that hydration status affects BIA measurement and should therefore be standardized as far as possible. Female athletes may also experience difference in hydration status during menses and this should also be a consideration when assessing female athletes with BIA. In addition, participants should not eat and engage in strenuous exercise 2-4 hours prior to assessment as some research has shown this to decrease impedance.
 

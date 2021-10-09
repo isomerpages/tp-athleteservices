@@ -1,6 +1,6 @@
 ---
 title: Services
-permalink: /testing-and-services/services/permalink
+permalink: /testing-and-services/services/
 ---
 We offer the following services that some sports teams have found beneficial:
 1. Taping workshops
@@ -8,6 +8,3 @@ We offer the following services that some sports teams have found beneficial:
 3. Ice-bath (Competition Season)
 4. Physiotherapy Consult (Competition Season)
 5. Mental skills workshops/ coaching
-
-
-
