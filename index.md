@@ -16,16 +16,16 @@ sections:
       key_highlights:
         - title: Meet the Team
           description: Find out more about the men and women behind the scene.
-          url: /meet-the-team/permalink
+          url: /meet-the-team
         - title: Projects
           description: "Join us to discover what may affect your sports performance.  Read
             about some of  our upcoming and completed projects we have done. "
-          url: /projects/upcoming/permalink
+          url: /projects/upcoming
         - title: Testing and Services
           description: Explore the range of testing and services we do to support
             athletes' sporting performance.
-          url: /testing-and-services/permalink
+          url: /testing-and-services
         - title: Resources
           description: Learn more about various topics of Sport Science here
-          url: /sdaacurated/permalink
+          url: /sdaacurated
 ---
