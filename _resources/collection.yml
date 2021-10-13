@@ -2,4 +2,4 @@ collections:
   resources:
     output: true
     order:
-      - sdaa-curated.md
+      - workshops.md
