@@ -8,3 +8,4 @@ Here are the abstract of projects that some athletes and students have embarked 
 2. Effects of Circuit Training on 200m Kayak Performance.[](/files/projects-synopsis/completed-projects/Abstract%20Effects%20of%20Circuit%20Training%20on%20200m%20Kayak%20Performance.pdf)
 3. Effects of a Six-week Core Strength & Stability Training on the Performance of  Sprint Kayak Athletes.[](/files/projects-synopsis/completed-projects/Abstract%20Effects%20of%20Core%20Training%20on%20500m%20Kayak%20Performance.pdf)
 4. Effect of Fatigue on 18-m Archery Performance.[](/files/projects-synopsis/completed-projects/Abstract%20Fatigue%20on%20Archery%20Kinematics.pdf)
+5. Optimal Nutrition for Bowling Team 
