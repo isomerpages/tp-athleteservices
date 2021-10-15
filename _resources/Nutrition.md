@@ -2,3 +2,8 @@
 title: Nutrition
 permalink: /nutrition/permalink
 ---
+“*You cant out-train a bad diet*.” And yes, what an athlete eats and when he/she eats matters!  
+
+Different food group has different function and the what and when you eat depends largely on the type of sport, exercise intensity and the environment in which the training/ competition takes place.   Does eating right or well need to be expensive? How can a student athlete be adequately nourished for training and competitions? 
+
+Find out more from our workshop poster here. []
