@@ -6,4 +6,4 @@ permalink: /nutrition/permalink
 
 Different food group has different function and the what and when you eat depends largely on the type of sport, exercise intensity and the environment in which the training/ competition takes place.   Does eating right or well need to be expensive? How can a student athlete be adequately nourished for training and competitions? 
 
-Find out more from our workshop poster here. []
+Find out more from our workshop poster here. [](/files/workshops-by-tp/Sports%20Leaders%20Workshop%202021_Nutrition.pdf)
