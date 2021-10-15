@@ -2,9 +2,9 @@ collections:
   resources:
     output: true
     order:
-      - Mental Skills Training.md
-      - Recovery.md
-      - Nutrition.md
-      - Strength & Conditioning.md
-      - Periodisation.md
       - workshops.md
+      - Mental Skills Training.md
+      - Nutrition.md
+      - Recovery.md
+      - Periodisation.md
+      - Strength & Conditioning.md
