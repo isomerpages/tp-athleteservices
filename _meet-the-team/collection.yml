@@ -2,4 +2,5 @@ collections:
   meet-the-team:
     output: true
     order:
+      - About Us.md
       - who-we-are.md
