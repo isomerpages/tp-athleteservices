@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Nutrition.md
       - Strength & Conditioning.md
       - Periodisation.md
       - workshops.md
