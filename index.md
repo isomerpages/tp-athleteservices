@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: TP Sports Science
+title: TP Athlete Services
 description: Bringing to you sports science testing, performance monitoring and
   athlete services to enhance your sporting performance right here in TP.
 image: /images/tp-logo.svg
@@ -19,14 +19,14 @@ sections:
           description: Find out more about the men and women behind the scene.
           url: /aboutus
         - title: Projects
-          description: "Join us to discover what may affect your sports performance.  Read
-            about some of  our upcoming and completed projects we have done. "
+          description: Join us to discover what may affect your sports performance. Read
+            about some of our upcoming and completed projects we have done.
           url: /projects/upcoming
         - title: Testing and Services
           description: Explore the range of testing and services we do to support
             athletes' sporting performance.
           url: /testing-and-services
         - title: Resources
-          description: Learn more about various topics of Sport Science here
+          description: Learn more about various topics of Sport Science.
           url: /workshops
 ---
