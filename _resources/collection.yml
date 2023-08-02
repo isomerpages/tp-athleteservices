@@ -1,0 +1,10 @@
+collections:
+  resources:
+    output: true
+    order:
+      - workshops.md
+      - Mental Skills Training.md
+      - Nutrition.md
+      - Recovery.md
+      - Periodisation.md
+      - Strength & Conditioning.md

@@ -1,0 +1,6 @@
+collections:
+  projects:
+    output: true
+    order:
+      - upcoming-projects.md
+      - completed-projects.md

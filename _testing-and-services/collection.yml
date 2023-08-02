@@ -1,0 +1,12 @@
+collections:
+  testing-and-services:
+    output: true
+    order:
+      - testing-and-services.md
+      - body-composition.md
+      - anaerobic-test-rast.md
+      - aerobic-test.md
+      - lower-body-power.md
+      - upper-body-power.md
+      - agility-test.md
+      - services.md
